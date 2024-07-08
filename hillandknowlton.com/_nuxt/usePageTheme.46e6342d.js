@@ -1,0 +1,1 @@
+import{g as s,h as n,p as e,bP as m,i as p}from"./entry.a5ffe6b6.js";const i=({theme:t,footer:a,footerTheme:r})=>{const o=()=>{e.theme=t,e.footer=a,e.footerTheme=r};s(()=>{n.pageEnterCompleted.on(o),e.inTransition?(e.theme=t,m.mode="light"):o()}),p(()=>{n.pageEnterCompleted.off(o)})};export{i as u};

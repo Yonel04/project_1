@@ -1,0 +1,1 @@
+import{aX as c}from"./entry.a5ffe6b6.js";const r=c({currentOfficeRegionId:null,currentOfficeSearch:null});function n(e){r.currentOfficeRegionId=e}function t(e){r.currentOfficeSearch=e}const i=r;export{n as a,i as o,t as s};

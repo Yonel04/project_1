@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 07 Jul 2024 22:08:07 at https://hillandknowlton.com/work +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hillandknowlton.com/work -O1 "C:\My Web Sites\project_1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:08:36	Error: 	"Not Found" (404) at link https://hillandknowlton.com/favicons/browserconfig.xml (from https://hillandknowlton.com/work/)
+22:28:29	Error: 	"Not Found" (404) at link https://hillandknowlton.com/office/helsinki/ (from https://hillandknowlton.com/offices/)
+22:29:30	Error: 	"Not Found" (404) at link https://hillandknowlton.com/office/oslo/ (from https://hillandknowlton.com/offices/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 8 minutes 37 seconds : 1068 links scanned, 1064 files written (232089650 bytes overall) [112107745 bytes received at 27230 bytes/sec], 155305746 bytes transferred using HTTP compression in 432 files, ratio 21%, 2.9 requests per connection
+(3 errors, 0 warnings, 0 messages)

@@ -1,0 +1,1 @@
+import{aX as e}from"./entry.a5ffe6b6.js";const t=e({location:{country:"US",state:"",closestOffice:{},lon:0,lat:0}});function c(o){t.location=o}function n(o){t.location.closestOffice=o}function i(o,s){t.location.lat=o,t.location.lon=s}export{n as a,c as b,i as s,t as u};

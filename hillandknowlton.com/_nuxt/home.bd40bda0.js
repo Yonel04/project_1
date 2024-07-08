@@ -1,0 +1,1 @@
+import{aX as o,h as n}from"./entry.a5ffe6b6.js";const t=o({hideIntro:!1,playIntroVideo:!1,showCuratedContent:!1});function r(e){t.hideIntro=e,e&&n.introCompleted.emit(!0)}function a(e){t.playIntroVideo=e}export{t as h,a as p,r as s};
